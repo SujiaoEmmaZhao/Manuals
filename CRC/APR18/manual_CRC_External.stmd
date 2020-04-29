@@ -6,9 +6,9 @@ title: Central Credit Responsibility Database - Firm Level
 ---
 
 
-`Extraction Date`: April 2018
+`Extraction Date`: June 2019
 
-`Manual Date`: 19 July 2018
+`Manual Date`: 17 April 2020
 
 
 
@@ -95,7 +95,7 @@ title: Central Credit Responsibility Database - Firm Level
 
 [^3]: Conditions for data access for external researchers are detailed in the disclosure control regulation.
 
-
+>  `Digital Object Identifier`: 10.17900/CRC.FRM.Jun2019.V1.
 
 # Geographical Coverage
 
@@ -576,8 +576,7 @@ Below is a list of relevant legislations:
 
 
 # Citation of this dataset
-Banco de Portugal (2018), Central Credit Responsibility Database: Firm-Level Data. Extraction: May 2018. Microdata Research Laboratory (BPLIM) Dataset.
-
+Banco de Portugal Microdata Research Laboratory (BPLIM) (2019): Central Credit Responsibility Database - Firm Level Data. Extraction: June 2019. Version: V1. BANCO DE PORTUGAL. Dataset. https://doi.org/10.17900/CRC.FRM.Jun2019.V1
 
 # Auxiliary Files
 For a description of each variable in each dataset (name, unit of measurement, data and storage type, format, year of first and last observation), an account of the changes occurred over time, summary statistics for each dataset and a codebook for each dataset, please check the following auxiliary files:
