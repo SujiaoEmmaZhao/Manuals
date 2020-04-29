@@ -1,9 +1,9 @@
 Data Manual
 -----------
 
-`Extraction Date`: June 2018
+`Extraction Date`: September 2019
 
-`Manual Date`: September 2018
+`Manual Date`: 28 April 2020
 
 **Abstract**: The Monetary Financial Institutions (MFIs) Balance Sheet
 Database reports detailed information on the assets and liabilities of
@@ -66,6 +66,8 @@ General Information
 
 > `Data Access`: this data set is available to external researchers
 > under certain conditions.[^2^](#fn2){#fnref2 .footnote-ref}
+
+>  `Digital Object Identifier`: 10.17900/BBB.Sep2019.V1.
 
 Geographical Coverage
 =====================
@@ -617,9 +619,7 @@ Below is a list of relevant legislations:
 Citation of this dataset
 ========================
 
-Banco de Portugal (2018), Monetary Financial Institutions Balance Sheet
-Database. Extraction: June 2018. Microdata Research Laboratory (BPLIM)
-Dataset.
+Banco de Portugal Microdata Research Laboratory (BPLIM)(2019): Bank Balance Sheet Monthly Data. Extraction: September 2019. Version:V1. BANCO DE PORTUGAL. Dataset. https://doi.org/10.17900/BBB.Sep2019.V1
 
 ::: {.section .footnotes}
 
